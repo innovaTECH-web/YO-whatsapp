@@ -1,16 +1,22 @@
 h1{
+    align-items: center;
+    text-align: center;
     margin-top: 30px;
         font-family: cursive, Helvetica, sans-serif;
         font-size: 100%;
 }
 
 h2{
+    align-items: center;
+    text-align: center;
     margin-top: 30px;
     font-family: cursive, Helvetica, sans-serif;
     font-size: 100%;
 }
 
 h3{
+    align-items: center;
+    text-align: center;
     margin-top: 30px;
     text-align: center;
     font-family: cursive, Helvetica, sans-serif;
