@@ -16,3 +16,11 @@ h3{
     font-family: cursive, Helvetica, sans-serif;
     font-size: 100%;
 }
+
+.column {
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .column {
+      width: 50%;
